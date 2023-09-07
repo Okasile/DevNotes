@@ -1,0 +1,10 @@
+UnityProject/Notes/Library/
+UnityProject/Notes/Temp/
+UnityProject/Notes/ProjectSettings/
+UnityProject/Notes/obj/
+UnityProject/Notes/Logs/
+UnityProject/Notes/UserSettings/
+*.vsconfig
+*.csproj
+UnityProject/Notes/.vs/
+*.sln
